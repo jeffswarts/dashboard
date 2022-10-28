@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4143c80.css",
+    "main.js": "/static/js/main.e9453490.js",
+    "static/js/314.7b9ab4d6.chunk.js": "/static/js/314.7b9ab4d6.chunk.js",
+    "static/js/906.1d428692.chunk.js": "/static/js/906.1d428692.chunk.js",
+    "static/media/fire.gif": "/static/media/fire.6959a22afdd2bb9b358e.gif",
+    "static/media/oil-crate.gif": "/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
+    "static/media/cairo-regular.ttf": "/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
+    "static/media/circular-std-medium.otf": "/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
+    "static/media/antonio-bold.ttf": "/static/media/antonio-bold.7c89038493d2f1ce9ce6.ttf",
+    "static/media/disconnect-icon-white.png": "/static/media/disconnect-icon-white.0cfe90a62ba16103d11a.png",
+    "static/media/antonio-regular.ttf": "/static/media/antonio-regular.e560db7c85bc7d159138.ttf",
+    "static/media/discord.png": "/static/media/discord.4c718ea9ac193a7240d9.png",
+    "static/media/antonio-light.ttf": "/static/media/antonio-light.bc423f34342776c96ce2.ttf",
+    "static/media/twitter.png": "/static/media/twitter.86ced53b0347a70d7cd5.png",
+    "static/media/discord-black.png": "/static/media/discord-black.c6e45d7b446d42bb7d78.png",
+    "static/media/twitter-black.png": "/static/media/twitter-black.1a9048e817adf4cdbc5b.png",
+    "static/media/saudi.png": "/static/media/saudi.7b9357911c29800418f6.png",
+    "static/media/crown.png": "/static/media/crown.1f547ae354ce71a59933.png",
+    "static/media/cheetah-3.png": "/static/media/cheetah-3.86afa41355b1a4649360.png",
+    "static/media/cheetah-2.png": "/static/media/cheetah-2.2a687015e2f12796a058.png",
+    "static/media/cheetah-1.png": "/static/media/cheetah-1.434f480840f25c0b66aa.png",
+    "static/media/barrel.png": "/static/media/barrel.7e2141b7b2cb5c4304f1.png",
+    "static/media/opensea-black.png": "/static/media/opensea-black.eb02332b57f93e9d70ec.png",
+    "static/media/minusio.ttf": "/static/media/minusio.bedb990d802a7fd04c23.ttf",
+    "static/media/sun-icon.svg": "/static/media/sun-icon.4af05dc6ba7577157282a21b91f7258c.svg",
+    "index.html": "/index.html",
+    "static/media/disconnect-icon.svg": "/static/media/disconnect-icon.d7561ae9ea41706dc3163ad29ab3d085.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.5814a44adbceaca20b4143b5ee9374e9.svg",
+    "static/media/moon-icon.svg": "/static/media/moon-icon.447b4812bbcf73b61bb03401e3d0c588.svg"
+  },
+  "entrypoints": [
+    "static/css/main.e4143c80.css",
+    "static/js/main.e9453490.js"
+  ]
+}
