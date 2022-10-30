@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.04268c05.css",
-    "main.js": "/dashboard/static/js/main.68b5e1ff.js",
+    "main.css": "/dashboard/static/css/main.f6c5c96e.css",
+    "main.js": "/dashboard/static/js/main.a1cba8b4.js",
     "static/js/314.7b9ab4d6.chunk.js": "/dashboard/static/js/314.7b9ab4d6.chunk.js",
     "static/js/906.1d428692.chunk.js": "/dashboard/static/js/906.1d428692.chunk.js",
     "static/media/fire.gif": "/dashboard/static/media/fire.6959a22afdd2bb9b358e.gif",
     "static/media/oil-crate.gif": "/dashboard/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
     "static/media/cairo-regular.ttf": "/dashboard/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
     "static/media/circular-std-medium.otf": "/dashboard/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
+    "static/media/circular-book.otf": "/dashboard/static/media/circular-book.9048137056e4347dbbd5.otf",
     "static/media/antonio-bold.ttf": "/dashboard/static/media/antonio-bold.7c89038493d2f1ce9ce6.ttf",
     "static/media/disconnect-icon-white.png": "/dashboard/static/media/disconnect-icon-white.0cfe90a62ba16103d11a.png",
     "static/media/antonio-regular.ttf": "/dashboard/static/media/antonio-regular.e560db7c85bc7d159138.ttf",
@@ -31,7 +32,7 @@
     "static/media/moon-icon.svg": "/dashboard/static/media/moon-icon.447b4812bbcf73b61bb03401e3d0c588.svg"
   },
   "entrypoints": [
-    "static/css/main.04268c05.css",
-    "static/js/main.68b5e1ff.js"
+    "static/css/main.f6c5c96e.css",
+    "static/js/main.a1cba8b4.js"
   ]
 }
