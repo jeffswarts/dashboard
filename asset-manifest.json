@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.0558dd44.css",
-    "main.js": "/dashboard/static/js/main.2f6e586e.js",
+    "main.css": "/dashboard/static/css/main.83d0cc64.css",
+    "main.js": "/dashboard/static/js/main.0107016f.js",
     "static/js/314.7b9ab4d6.chunk.js": "/dashboard/static/js/314.7b9ab4d6.chunk.js",
-    "static/js/906.1d428692.chunk.js": "/dashboard/static/js/906.1d428692.chunk.js",
+    "static/js/906.541aeb0c.chunk.js": "/dashboard/static/js/906.541aeb0c.chunk.js",
     "static/media/fire.gif": "/dashboard/static/media/fire.6959a22afdd2bb9b358e.gif",
     "static/media/oil-crate.gif": "/dashboard/static/media/oil-crate.97016e19b9ace5ad1d85.gif",
     "static/media/cairo-regular.ttf": "/dashboard/static/media/cairo-regular.c12e6ac21d69099c257f.ttf",
@@ -22,6 +22,7 @@
     "static/media/cheetah-3.png": "/dashboard/static/media/cheetah-3.86afa41355b1a4649360.png",
     "static/media/cheetah-2.png": "/dashboard/static/media/cheetah-2.2a687015e2f12796a058.png",
     "static/media/cheetah-1.png": "/dashboard/static/media/cheetah-1.434f480840f25c0b66aa.png",
+    "static/media/relic.png": "/dashboard/static/media/relic.1d4efe37f8398682f70b.png",
     "static/media/barrel.png": "/dashboard/static/media/barrel.7e2141b7b2cb5c4304f1.png",
     "static/media/opensea-black.png": "/dashboard/static/media/opensea-black.eb02332b57f93e9d70ec.png",
     "static/media/minusio.ttf": "/dashboard/static/media/minusio.bedb990d802a7fd04c23.ttf",
@@ -33,7 +34,7 @@
     "static/media/crate-arrow.svg": "/dashboard/static/media/crate-arrow.80d31694cc77419290e8bfe24d3bc659.svg"
   },
   "entrypoints": [
-    "static/css/main.0558dd44.css",
-    "static/js/main.2f6e586e.js"
+    "static/css/main.83d0cc64.css",
+    "static/js/main.0107016f.js"
   ]
 }
